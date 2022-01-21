@@ -398,6 +398,10 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
+.img-fluid {
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #c8c8ca;
+}
 
 /*--------------------------------------------------------------
 # Skills
