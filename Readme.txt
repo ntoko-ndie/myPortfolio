@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+# My Portfolio
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b1bf0a63-d297-49ce-87a6-aa5f4b1978d3/deploy-status)](https://app.netlify.com/sites/codingsurface/deploys)
