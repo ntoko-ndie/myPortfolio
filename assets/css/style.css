@@ -334,13 +334,13 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  /* padding-bottom: 30px; */
 }
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
   text-transform: uppercase;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   padding-bottom: 20px;
   position: relative;
   color: #45505b;
@@ -732,16 +732,17 @@ section {
   font-size: 14px;
   color: #728394;
 }
-/* .contact .info .email,
+.contact .info .email,
 .contact .info .phone {
-  margin-top: 40px;
-} */
+  margin-top: ;
+}
 .info--contact {
-  margin: 100px;
+  margin: 10px 125px 40px;
 }
 .contact-links i {
   margin-right: 5px;
   margin-top: 15px;
+  margin-bottom: 30px;
 }
 .contact-links i:hover {
   background: #0563bb;
