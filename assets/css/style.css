@@ -30,8 +30,11 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
+  margin-bottom: 8px;
 }
-
+p.fst-italic {
+  margin-bottom: 25px;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -334,13 +337,13 @@ section {
 
 .section-title {
   text-align: center;
-  /* padding-bottom: 30px; */
+  padding-bottom: 30px;
 }
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
   text-transform: uppercase;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
   color: #45505b;
@@ -732,17 +735,20 @@ section {
   font-size: 14px;
   color: #728394;
 }
-.contact .info .email,
+/* .contact .info .email,
 .contact .info .phone {
-  margin-top: ;
-}
+  margin-left: 35px;
+} */
 .info--contact {
-  margin: 10px 125px 40px;
+  margin-left: 120px;
+  margin-bottom: 15px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 .contact-links i {
-  margin-right: 5px;
+  margin-right: 15px;
   margin-top: 15px;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 .contact-links i:hover {
   background: #0563bb;
