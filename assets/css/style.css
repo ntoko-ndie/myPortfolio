@@ -30,11 +30,8 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
-  margin-bottom: 8px;
 }
-p.fst-italic {
-  margin-bottom: 25px;
-}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -737,18 +734,14 @@ section {
 }
 /* .contact .info .email,
 .contact .info .phone {
-  margin-left: 35px;
+  margin-top: 40px;
 } */
 .info--contact {
-  margin-left: 120px;
-  margin-bottom: 15px;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  margin: 100px;
 }
 .contact-links i {
-  margin-right: 8px;
+  margin-right: 5px;
   margin-top: 15px;
-  margin-bottom: 15px;
 }
 .contact-links i:hover {
   background: #0563bb;
